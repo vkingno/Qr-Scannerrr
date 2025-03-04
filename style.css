@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#reader {
+    width: 300px;
+    margin: auto;
+}
